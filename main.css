@@ -1,0 +1,118 @@
+p {
+  color: white;
+  width: 500px;
+  border: 1px solid black;
+  text-align: center;
+  margin: 0 auto;
+}
+ol {
+	color: white;
+  width: 500px;
+  border: 1px solid black;
+  text-align: center;
+  margin: 0 auto;
+  padding: 0 px 20px;
+}
+body {
+  width: 600px;
+  margin:0 auto;
+  background-color: gray;
+  padding: 0px 20px 20px 20px;
+  border: 5px solid black;
+  text-align:center;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539F;
+  text-shadow: 3px 3px 1px black;
+  text-align:center;
+}
+h2 {
+  margin: 0;
+  padding: 0px 0px 20px;
+  color: #00539F;
+  text-shadow: 3px 3px 1px red;
+  text-align:center;
+  font-size: 32px;
+  margin-top:10px;
+}
+.video
+{
+	width: 300px;
+	height: 50px;
+	margin: 0 auto;
+	background:black;
+	font-size: 24px;
+	color: white;
+	text-align: center;
+	height: 100px;
+	line-height:4;
+	
+}
+.video1
+{
+	width: 300px;
+	height: 50px;
+	margin: 0 auto;
+	background:black;
+	font-size: 24px;
+	color: white;
+	text-align: center;
+	height: 100px;
+	line-height:4;
+	margin-top:50px;
+	word-wrap: break-word;
+
+}
+.video2
+{
+	width: 300px;
+	height: 50px;
+	margin: 0 auto;
+	background:black;
+	font-size: 24px;
+	color: white;
+	text-align: center;
+	height: 100px;
+	line-height:2;
+	margin-top:50px;
+	word-wrap: break-word;
+	margin-bottom:50px;
+
+}
+#header { 
+	margin-top: 20px;
+	width:600px;
+	height:217px;
+	background: red;
+	font-size: 24px;
+}
+#left {	width:200px;
+	height:100%;
+	float:left;
+	background: orange;
+	font-size: 24px;
+}
+#content { height:100%;
+	   width:100%;
+	   background: green;
+	   font-size: 24px;
+}
+#footer {	width:600px;
+	background: yellow;
+	font-size: 24px;
+}
+
+ /* при наведении */
+a {
+    color: white; /* Цвет обычной ссылки */ 
+    text-decoration: none; /* Убираем подчеркивание у ссылок */
+   }
+   a:visited {
+    color: white; /* Цвет посещённой ссылки */
+   } 
+   a:hover {
+    color: #800000; /* Цвет ссылки при наведении на нее курсора мыши */  
+    text-decoration: underline; /* Добавляем подчеркивание */
+   }
